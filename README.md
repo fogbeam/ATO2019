@@ -1,2 +1,4 @@
 # ATO2019
 Material from Phil's talk "AI, Sherlock Holmes Style - Introduction to Automated Abductive Inference" at ATO 2019
+
+Here you will find slides and other supporting material from the October 15, 2019 presentation by Phil Rhodes at All Things Open, titled "AI, Sherlock Holmes Style - Introduction to Automated Abductive Inference". Included source code is an incomplete, and probably buggy, implementation of the simplest version of Parsimonious Covering Theory as documented by Yun Peng and James Reggia in their 1990 book [Abductive Inference Models for Diagnostic Problem-solving](https://www.amazon.com/Abductive-Inference-Diagnostic-Problem-Solving-Computation/dp/0387973435). Another implementation of PCT, from researchers officially associated with the original developers of the technique, is available at [https://github.com/garrettkatz/copct](https://github.com/garrettkatz/copct).
